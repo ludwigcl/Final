@@ -1,0 +1,40 @@
+/* Coolors Exported Palette - https://coolors.co/009bab-15b3b0-51ecdc-6ffeee-69def8-006393-fed7a7-fe934d-ef5b30-001836 */
+
+- Tailwind
+
+{ 'blue_(munsell)': { DEFAULT: '#009BAB', 100: '#001f23', 200: '#003e45', 300: '#005e68', 400: '#007d8b', 500: '#009bab', 600: '#00d9f1', 700: '#35ebff', 800: '#78f2ff', 900: '#bcf8ff' }, 'light_sea_green': { DEFAULT: '#15B3B0', 100: '#042423', 200: '#084746', 300: '#0d6b69', 400: '#118e8c', 500: '#15b3b0', 600: '#20e5e2', 700: '#58ebe9', 800: '#90f2f0', 900: '#c7f8f8' }, 'turquoise': { DEFAULT: '#51ECDC', 100: '#063934', 200: '#0d7268', 300: '#13ab9c', 400: '#19e4cf', 500: '#51ecdc', 600: '#73efe3', 700: '#96f3ea', 800: '#b9f7f1', 900: '#dcfbf8' }, 'fluorescent_cyan': { DEFAULT: '#6FFEEE', 100: '#004941', 200: '#019281', 300: '#01dbc2', 400: '#28fee5', 500: '#6ffeee', 600: '#8dfef1', 700: '#aafff5', 800: '#c6fff8', 900: '#e3fffc' }, 'sky_blue': { DEFAULT: '#69DEF8', 100: '#033743', 200: '#066f86', 300: '#0aa6ca', 400: '#25cff5', 500: '#69def8', 600: '#86e4f9', 700: '#a4ebfb', 800: '#c3f2fc', 900: '#e1f8fe' }, 'lapis_lazuli': { DEFAULT: '#006393', 100: '#00141e', 200: '#00273b', 300: '#003b59', 400: '#004f76', 500: '#006393', 600: '#0093dc', 700: '#26b7ff', 800: '#6ecfff', 900: '#b7e7ff' }, 'sunset': { DEFAULT: '#FED7A7', 100: '#542e01', 200: '#a85d02', 300: '#fb8b03', 400: '#fdb255', 500: '#fed7a7', 600: '#fee0ba', 700: '#fee8cc', 800: '#ffefdd', 900: '#fff7ee' }, 'atomic_tangerine': { DEFAULT: '#FE934D', 100: '#421b00', 200: '#843501', 300: '#c65001', 400: '#fe6c0b', 500: '#fe934d', 600: '#fea971', 700: '#febf94', 800: '#ffd4b8', 900: '#ffeadb' }, 'flame': { DEFAULT: '#EF5B30', 100: '#350f04', 200: '#6a1f08', 300: '#9f2e0c', 400: '#d43e10', 500: '#ef5b30', 600: '#f27c58', 700: '#f69d82', 800: '#f9beac', 900: '#fcded5' }, 'oxford_blue': { DEFAULT: '#001836', 100: '#00050b', 200: '#000a16', 300: '#000f22', 400: '#00142d', 500: '#001836', 600: '#004293', 700: '#006bee', 800: '#499bff', 900: '#a4cdff' } }
+
+- CSV
+
+009BAB,15B3B0,51ECDC,6FFEEE,69DEF8,006393,FED7A7,FE934D,EF5B30,001836
+
+- With #
+
+#009BAB, #15B3B0, #51ECDC, #6FFEEE, #69DEF8, #006393, #FED7A7, #FE934D, #EF5B30, #001836
+
+- Array
+
+["009BAB","15B3B0","51ECDC","6FFEEE","69DEF8","006393","FED7A7","FE934D","EF5B30","001836"]
+
+- Object
+
+{"Blue (Munsell)":"009BAB","Light sea green":"15B3B0","Turquoise":"51ECDC","Fluorescent cyan":"6FFEEE","Sky blue":"69DEF8","Lapis Lazuli":"006393","Sunset":"FED7A7","Atomic tangerine":"FE934D","Flame":"EF5B30","Oxford Blue":"001836"}
+
+- Extended Array
+
+[{"name":"Blue (Munsell)","hex":"009BAB","rgb":[0,155,171],"cmyk":[100,9,0,33],"hsb":[186,100,67],"hsl":[186,100,34],"lab":[58,-28,-18]},{"name":"Light sea green","hex":"15B3B0","rgb":[21,179,176],"cmyk":[88,0,2,30],"hsb":[179,88,70],"hsl":[179,79,39],"lab":[66,-37,-9]},{"name":"Turquoise","hex":"51ECDC","rgb":[81,236,220],"cmyk":[66,0,7,7],"hsb":[174,66,93],"hsl":[174,80,62],"lab":[85,-44,-4]},{"name":"Fluorescent cyan","hex":"6FFEEE","rgb":[111,254,238],"cmyk":[56,0,6,0],"hsb":[173,56,100],"hsl":[173,99,72],"lab":[92,-42,-4]},{"name":"Sky blue","hex":"69DEF8","rgb":[105,222,248],"cmyk":[58,10,0,3],"hsb":[191,58,97],"hsl":[191,91,69],"lab":[83,-26,-23]},{"name":"Lapis Lazuli","hex":"006393","rgb":[0,99,147],"cmyk":[100,33,0,42],"hsb":[200,100,58],"hsl":[200,100,29],"lab":[40,-6,-33]},{"name":"Sunset","hex":"FED7A7","rgb":[254,215,167],"cmyk":[0,15,34,0],"hsb":[33,34,100],"hsl":[33,98,83],"lab":[88,7,29]},{"name":"Atomic tangerine","hex":"FE934D","rgb":[254,147,77],"cmyk":[0,42,70,0],"hsb":[24,70,100],"hsl":[24,99,65],"lab":[71,35,53]},{"name":"Flame","hex":"EF5B30","rgb":[239,91,48],"cmyk":[0,62,80,6],"hsb":[14,80,94],"hsl":[14,86,56],"lab":[58,55,53]},{"name":"Oxford Blue","hex":"001836","rgb":[0,24,54],"cmyk":[100,56,0,79],"hsb":[213,100,21],"hsl":[213,100,11],"lab":[8,5,-22]}]
+
+- XML
+
+<palette>
+  <color name="Blue (Munsell)" hex="009BAB" r="0" g="155" b="171" />
+  <color name="Light sea green" hex="15B3B0" r="21" g="179" b="176" />
+  <color name="Turquoise" hex="51ECDC" r="81" g="236" b="220" />
+  <color name="Fluorescent cyan" hex="6FFEEE" r="111" g="254" b="238" />
+  <color name="Sky blue" hex="69DEF8" r="105" g="222" b="248" />
+  <color name="Lapis Lazuli" hex="006393" r="0" g="99" b="147" />
+  <color name="Sunset" hex="FED7A7" r="254" g="215" b="167" />
+  <color name="Atomic tangerine" hex="FE934D" r="254" g="147" b="77" />
+  <color name="Flame" hex="EF5B30" r="239" g="91" b="48" />
+  <color name="Oxford Blue" hex="001836" r="0" g="24" b="54" />
+</palette>

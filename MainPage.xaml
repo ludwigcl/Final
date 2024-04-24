@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:Nudgi="clr-namespace:Nudgi"
+             x:Class="Nudgi.MainPage"
+             Title="Today">
+    <Grid>
+        <ListView x:Name="TasksListView" ItemsSource="{Binding Tasks}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Name}" TextColor="#FED7A7" Detail="{Binding Description}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button Text="Timer Demo" 
+                BackgroundColor="#FE934D"
+                VerticalOptions="End" 
+                HorizontalOptions="Start" 
+                WidthRequest="120"
+                HeightRequest="60"
+                Margin="20"
+                CornerRadius="30"
+                TextColor="Black"
+                FontSize="24"
+                x:Name="TimerDemoButton" 
+                CommandParameter="TimerDemoButton"
+                Padding="0"
+                Command="{Binding StartTimerCommand}"/>
+        <Button Text="+" 
+                BackgroundColor="#69DEF8"
+                VerticalOptions="End" 
+                HorizontalOptions="End" 
+                WidthRequest="60"
+                HeightRequest="60"
+                Margin="20"
+                CornerRadius="30"
+                TextColor="White"
+                FontSize="44"
+                x:Name="AddTaskPageButton" 
+                CommandParameter="AddTaskPageButton"
+                Padding="0"
+                Command="{Binding AddTaskPageCommand}"/>
+    </Grid>
+</ContentPage>

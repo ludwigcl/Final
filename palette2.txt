@@ -1,0 +1,40 @@
+/* Coolors Exported Palette - https://coolors.co/cfedff-ade1fa-58c2e6-04a6a7-008c7b-004c5a-003e22-4a1b00-913500-ff674c */
+
+- Tailwind
+
+{ 'columbia_blue': { DEFAULT: '#CFEDFF', 100: '#00395d', 200: '#0072ba', 300: '#17a6ff', 400: '#74caff', 500: '#cfedff', 600: '#daf1ff', 700: '#e3f4ff', 800: '#edf8ff', 900: '#f6fbff' }, 'uranian_blue': { DEFAULT: '#ADE1FA', 100: '#053850', 200: '#0970a0', 300: '#0ea8f0', 400: '#5dc5f6', 500: '#ade1fa', 600: '#bde8fb', 700: '#ceedfc', 800: '#def3fd', 900: '#eff9fe' }, 'aero': { DEFAULT: '#58C2E6', 100: '#082b37', 200: '#10576e', 300: '#1982a5', 400: '#21addc', 500: '#58c2e6', 600: '#78ceeb', 700: '#9adaf0', 800: '#bce7f5', 900: '#ddf3fa' }, 'light_sea_green': { DEFAULT: '#04A6A7', 100: '#012222', 200: '#024444', 300: '#036565', 400: '#038787', 500: '#04a6a7', 600: '#06ebeb', 700: '#3afafa', 800: '#7cfcfc', 900: '#bdfdfd' }, 'viridian': { DEFAULT: '#008C7B', 100: '#001c18', 200: '#003731', 300: '#005349', 400: '#006e61', 500: '#008c7b', 600: '#00d4bb', 700: '#20ffe5', 800: '#6affee', 900: '#b5fff6' }, 'midnight_green': { DEFAULT: '#004C5A', 100: '#001012', 200: '#001f25', 300: '#002f37', 400: '#003e49', 500: '#004c5a', 600: '#0095af', 700: '#04d9ff', 800: '#58e6ff', 900: '#abf2ff' }, 'british_racing_green': { DEFAULT: '#003E22', 100: '#000c07', 200: '#00180d', 300: '#002514', 400: '#00311b', 500: '#003e22', 600: '#009753', 700: '#00f184', 800: '#4bffae', 900: '#a5ffd7' }, 'seal_brown': { DEFAULT: '#4A1B00', 100: '#0f0600', 200: '#1f0b00', 300: '#2e1100', 400: '#3d1600', 500: '#4a1b00', 600: '#a33c00', 700: '#fa5c00', 800: '#ff9152', 900: '#ffc8a8' }, 'brown': { DEFAULT: '#913500', 100: '#1d0a00', 200: '#391500', 300: '#561f00', 400: '#722a00', 500: '#913500', 600: '#d84f00', 700: '#ff7323', 800: '#ffa26c', 900: '#ffd0b6' }, 'tomato': { DEFAULT: '#FF674C', 100: '#420a00', 200: '#851400', 300: '#c71e00', 400: '#ff2f0a', 500: '#ff674c', 600: '#ff8670', 700: '#ffa494', 800: '#ffc2b8', 900: '#ffe1db' } }
+
+- CSV
+
+CFEDFF,ADE1FA,58C2E6,04A6A7,008C7B,004C5A,003E22,4A1B00,913500,FF674C
+
+- With #
+
+#CFEDFF, #ADE1FA, #58C2E6, #04A6A7, #008C7B, #004C5A, #003E22, #4A1B00, #913500, #FF674C
+
+- Array
+
+["CFEDFF","ADE1FA","58C2E6","04A6A7","008C7B","004C5A","003E22","4A1B00","913500","FF674C"]
+
+- Object
+
+{"Columbia blue":"CFEDFF","Uranian Blue":"ADE1FA","Aero":"58C2E6","Light sea green":"04A6A7","Viridian":"008C7B","Midnight green":"004C5A","British racing green":"003E22","Seal brown":"4A1B00","Brown":"913500","Tomato":"FF674C"}
+
+- Extended Array
+
+[{"name":"Columbia blue","hex":"CFEDFF","rgb":[207,237,255],"cmyk":[19,7,0,0],"hsb":[203,19,100],"hsl":[203,100,91],"lab":[92,-6,-12]},{"name":"Uranian Blue","hex":"ADE1FA","rgb":[173,225,250],"cmyk":[31,10,0,2],"hsb":[199,31,98],"hsl":[199,89,83],"lab":[87,-11,-18]},{"name":"Aero","hex":"58C2E6","rgb":[88,194,230],"cmyk":[62,16,0,10],"hsb":[195,62,90],"hsl":[195,74,62],"lab":[74,-20,-27]},{"name":"Light sea green","hex":"04A6A7","rgb":[4,166,167],"cmyk":[98,1,0,35],"hsb":[180,98,65],"hsl":[180,95,34],"lab":[62,-34,-11]},{"name":"Viridian","hex":"008C7B","rgb":[0,140,123],"cmyk":[100,0,12,45],"hsb":[173,100,55],"hsl":[173,100,27],"lab":[52,-36,0]},{"name":"Midnight green","hex":"004C5A","rgb":[0,76,90],"cmyk":[100,16,0,65],"hsb":[189,100,35],"hsl":[189,100,18],"lab":[29,-15,-14]},{"name":"British racing green","hex":"003E22","rgb":[0,62,34],"cmyk":[100,0,45,76],"hsb":[153,100,24],"hsl":[153,100,12],"lab":[22,-26,12]},{"name":"Seal brown","hex":"4A1B00","rgb":[74,27,0],"cmyk":[0,64,100,71],"hsb":[22,100,29],"hsl":[22,100,15],"lab":[17,21,25]},{"name":"Brown","hex":"913500","rgb":[145,53,0],"cmyk":[0,63,100,43],"hsb":[22,100,57],"hsl":[22,100,28],"lab":[35,37,47]},{"name":"Tomato","hex":"FF674C","rgb":[255,103,76],"cmyk":[0,60,70,0],"hsb":[9,70,100],"hsl":[9,100,65],"lab":[63,56,45]}]
+
+- XML
+
+<palette>
+  <color name="Columbia blue" hex="CFEDFF" r="207" g="237" b="255" />
+  <color name="Uranian Blue" hex="ADE1FA" r="173" g="225" b="250" />
+  <color name="Aero" hex="58C2E6" r="88" g="194" b="230" />
+  <color name="Light sea green" hex="04A6A7" r="4" g="166" b="167" />
+  <color name="Viridian" hex="008C7B" r="0" g="140" b="123" />
+  <color name="Midnight green" hex="004C5A" r="0" g="76" b="90" />
+  <color name="British racing green" hex="003E22" r="0" g="62" b="34" />
+  <color name="Seal brown" hex="4A1B00" r="74" g="27" b="0" />
+  <color name="Brown" hex="913500" r="145" g="53" b="0" />
+  <color name="Tomato" hex="FF674C" r="255" g="103" b="76" />
+</palette>

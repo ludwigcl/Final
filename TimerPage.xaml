@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Nudgi.TimerPage">
+    <ContentPage.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#001836" Offset="0.1" />
+            <GradientStop Color="#EF5B30" Offset="1.0" />
+        </LinearGradientBrush>
+    </ContentPage.Background>
+    <Grid VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+    <Label Text="{Binding Timer, StringFormat='{0:hh\\:mm\\:ss}'}" 
+           FontSize="60" 
+           HorizontalOptions="CenterAndExpand" 
+           VerticalOptions="CenterAndExpand" />
+    <StackLayout VerticalOptions="End" HorizontalOptions="CenterAndExpand" Spacing="20" Margin="0,0,0,25">
+        <Button Text="I'll Finish on Time!" 
+                Command="{Binding FinishOnTimeCommand}" 
+                BackgroundColor="#006393" 
+                BorderColor="Black"
+                TextColor="White" 
+                Margin="0,20,0,0" />
+        <Button Text="Sacrifice Free Time (5 minutes)" 
+                Command="{Binding SacrificeTimeCommand}" 
+                BackgroundColor="#EF5B30" 
+                BorderColor="Black"
+                TextColor="White" />
+    </StackLayout>
+</Grid>
+</ContentPage>
